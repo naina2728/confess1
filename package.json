@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Anonymous confessions app with Hollywood actor pseudonyms",
   "private": true,
+  "type": "module",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

@@ -12,7 +12,7 @@ const nextConfig = {
         protocol: 'https',
         hostname: 'confess1.vercel.app',
         port: '',
-        pathname: '/public/**',
+        pathname: '/**',
       },
     ],
   },

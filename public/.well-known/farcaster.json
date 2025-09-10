@@ -12,7 +12,7 @@
       "imageUrl": "https://confess1.vercel.app/header.png",
       "buttonTitle": "Share Confession",
       "splashImageUrl": "https://confess1.vercel.app/splash.png",
-      "splashBackgroundColor": "#ff6b6b",
+      "splashBackgroundColor": "#ffffff",
       "subtitle": "Anonymous spicy confessions",
       "description": "Share your secrets anonymously! Features spicy animations, mobile design, like system, timestamps, and modern UI with beautiful gradients.",
       "primaryCategory": "social",

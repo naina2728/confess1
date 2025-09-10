@@ -2,6 +2,11 @@ import { NextResponse } from 'next/server'
 
 export async function GET() {
   const farcasterManifest = {
+    "accountAssociation": {
+      "header": "eyJmaWQiOjEwODk4NzksInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHg1ZDczYzczNGQ3Yzg0OUUxNTRiNmYwNjczNjY0NDQ0MzJkOTdDZjE3In0",
+      "payload": "eyJkb21haW4iOiJjb25mZXNzMS52ZXJjZWwuYXBwIn0",
+      "signature": "MHhkMmE4MGYwZmM4MTY2MThmYTc0MGE3YzI5Njg1NzQyNzQzNTkwOTQ3NWNjZWVhMjFlZjEyZGNhZDZmYTZlNGUwNmZmM2I0NGI4YTA3YTdiMjNhYmM2ZTVhZjAwODNiNDI0OTVkYTkzNTdiNWJhYWQxNzZiMWIzNjEzMWI2NWZlNTFj"
+    },
     "miniapp": {
       "name": "Spicy Confessions",
       "version": "1",

@@ -7,8 +7,14 @@ const nextConfig = {
     ignoreBuildErrors: false,
   },
   images: {
-    domains: ['confess1.vercel.app'],
-    unoptimized: true,
+    remotePatterns: [
+      {
+        protocol: 'https',
+        hostname: 'confess1.vercel.app',
+        port: '',
+        pathname: '/public/**',
+      },
+    ],
   },
 }
 

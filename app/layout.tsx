@@ -12,8 +12,8 @@ export const metadata: Metadata = {
     description: 'Share your secrets anonymously with a fun, spicy design theme and modern UI.',
     images: [
       {
-        url: 'https://confessions-five.vercel.app/public/header.png',
-        secureUrl: 'https://confessions-five.vercel.app/public/header.png',
+        url: 'https://confess1.vercel.app/public/header.png',
+        secureUrl: 'https://confess1.vercel.app/public/header.png',
         alt: 'Spicy Confessions',
         width: 1200,
         height: 630,
@@ -26,33 +26,33 @@ export const metadata: Metadata = {
     title: 'Spicy Confessions',
     description: 'Share your secrets anonymously with a fun, spicy design theme and modern UI.',
     creator: '@SpicyConfessions',
-    images: ['https://confessions-five.vercel.app/public/header.png'],
+    images: ['https://confess1.vercel.app/public/header.png'],
   },
   other: {
     'fc:frame': JSON.stringify({
       version: 'next',
-      imageUrl: 'https://confessions-five.vercel.app/public/header.png',
+      imageUrl: 'https://confess1.vercel.app/public/header.png',
       button: {
         title: 'Share Confession',
         action: {
           type: 'launch_frame',
           name: 'Spicy Confessions',
-          url: 'https://confessions-five.vercel.app',
-          splashImageUrl: 'https://confessions-five.vercel.app/public/splash.png',
+          url: 'https://confess1.vercel.app',
+          splashImageUrl: 'https://confess1.vercel.app/public/splash.png',
           splashBackgroundColor: '#ff6b6b',
         },
       },
     }),
     'fc:miniapp': JSON.stringify({
       version: 'next',
-      imageUrl: 'https://confessions-five.vercel.app/public/header.png',
+      imageUrl: 'https://confess1.vercel.app/public/header.png',
       button: {
         title: 'Share Confession',
         action: {
           type: 'launch_frame',
           name: 'Spicy Confessions',
-          url: 'https://confessions-five.vercel.app',
-          splashImageUrl: 'https://confessions-five.vercel.app/public/splash.png',
+          url: 'https://confess1.vercel.app',
+          splashImageUrl: 'https://confess1.vercel.app/public/splash.png',
           splashBackgroundColor: '#ff6b6b',
         },
       },

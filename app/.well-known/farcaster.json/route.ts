@@ -15,7 +15,7 @@ export async function GET() {
       "imageUrl": "https://confess1.vercel.app/icon.png",
       "buttonTitle": "Share Confession",
       "splashImageUrl": "https://confess1.vercel.app/icon.png",
-      "splashBackgroundColor": "#ff6b6b",
+      "splashBackgroundColor": "#ffffff",
       "subtitle": "Anonymous spicy confessions",
       "description": "Share your secrets anonymously! Features spicy animations, mobile design, like system, timestamps, and modern UI with beautiful gradients.",
       "primaryCategory": "social",

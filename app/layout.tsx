@@ -31,14 +31,14 @@ export const metadata: Metadata = {
   other: {
     'fc:frame': JSON.stringify({
       version: 'next',
-      imageUrl: 'https://confess1.vercel.app/header.png',
+      imageUrl: 'https://confess1.vercel.app/logo.png',
       button: {
         title: 'Share Confession',
         action: {
           type: 'launch_frame',
           name: 'Spicy Confessions',
           url: 'https://confess1.vercel.app',
-          splashImageUrl: 'https://confess1.vercel.app/splash.png',
+          splashImageUrl: 'https://confess1.vercel.app/logo.png',
           splashBackgroundColor: '#ff6b6b',
         },
       },

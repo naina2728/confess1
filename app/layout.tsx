@@ -45,7 +45,7 @@ export const metadata: Metadata = {
     }),
     'fc:miniapp': JSON.stringify({
       version: 'next',
-      imageUrl: 'https://confess1.vercel.app/header.png',
+      imageUrl: 'https://confess1.vercel.app/logo.png',
       button: {
         title: 'Share Confession',
         action: {

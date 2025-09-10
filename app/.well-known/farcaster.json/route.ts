@@ -10,19 +10,19 @@ export async function GET() {
     "miniapp": {
       "name": "Spicy Confessions",
       "version": "1",
-      "iconUrl": "https://confess1.vercel.app/public/icon.png",
+      "iconUrl": "https://confess1.vercel.app/icon.png",
       "homeUrl": "https://confess1.vercel.app",
-      "imageUrl": "https://confess1.vercel.app/public/header.png",
+      "imageUrl": "https://confess1.vercel.app/header.png",
       "buttonTitle": "Share Confession",
-      "splashImageUrl": "https://confess1.vercel.app/public/icon.png",
+      "splashImageUrl": "https://confess1.vercel.app/splash.png",
       "splashBackgroundColor": "#ff6b6b",
       "subtitle": "Anonymous spicy confessions",
       "description": "Share your secrets anonymously! Features spicy animations, mobile design, like system, timestamps, and modern UI with beautiful gradients.",
       "primaryCategory": "social",
       "screenshotUrls": [
-        "https://confess1.vercel.app/public/header.png"
+        "https://confess1.vercel.app/header.png"
       ],
-      "heroImageUrl": "https://confess1.vercel.app/public/header.png",
+      "heroImageUrl": "https://confess1.vercel.app/header.png",
       "tags": [
         "social",
         "anonymous",
@@ -33,7 +33,7 @@ export async function GET() {
       "tagline": "Share Your Spicy Secrets",
       "ogTitle": "Spicy Confessions",
       "ogDescription": "Share your secrets anonymously with a fun, spicy design theme and modern UI.",
-      "ogImageUrl": "https://confess1.vercel.app/public/icon.png"
+      "ogImageUrl": "https://confess1.vercel.app/icon.png"
     }
   }
 

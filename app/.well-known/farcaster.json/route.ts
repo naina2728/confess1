@@ -22,7 +22,7 @@ export async function GET() {
       "screenshotUrls": [
         "https://confess1.vercel.app/header.png"
       ],
-      "heroImageUrl": "https://confess1.vercel.app/header.png",
+      "heroImageUrl": "https://confess1.vercel.app/icon.png",
       "tags": [
         "social",
         "anonymous",

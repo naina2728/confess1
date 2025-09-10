@@ -52,7 +52,7 @@ export const metadata: Metadata = {
           type: 'launch_frame',
           name: 'Spicy Confessions',
           url: 'https://confess1.vercel.app',
-          splashImageUrl: 'https://confess1.vercel.app/splash.png',
+          splashImageUrl: 'https://confess1.vercel.app/icon.png',
           splashBackgroundColor: '#ff6b6b',
         },
       },

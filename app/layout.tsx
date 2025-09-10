@@ -31,7 +31,7 @@ export const metadata: Metadata = {
   other: {
     'fc:frame': JSON.stringify({
       version: 'next',
-      imageUrl: 'https://confess1.vercel.app/logo.png',
+      imageUrl: 'https://confess1.vercel.app/header.png',
       button: {
         title: 'Share Confession',
         action: {
@@ -39,7 +39,7 @@ export const metadata: Metadata = {
           name: 'Spicy Confessions',
           url: 'https://confess1.vercel.app',
           splashImageUrl: 'https://confess1.vercel.app/logo.png',
-          splashBackgroundColor: '#ff6b6b',
+          splashBackgroundColor: '#ffffff',
         },
       },
     }),
